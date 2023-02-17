@@ -1,0 +1,11 @@
+{
+    "name": "woduda/koseven-captcha",
+    "type": "koseven-module",
+    "description": "Captcha module for Koseven",
+    "version": "1.0.1",
+    "homepage": "https://github.com/woduda/koseven-captcha",
+    "license": "MIT",
+    "require": {
+        "php": ">=7.0"
+    }
+}
